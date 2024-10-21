@@ -1,0 +1,4 @@
+/api-gateway/node_modules
+/airlines-service/node_modules
+/flights-service/node_modules
+/passenger-service/node_modules
